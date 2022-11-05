@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Netlify link 👉 [Netlify link 👉](https://react-accordion-from-scratch.netlify.app/).
+ [Netlify link](https://react-accordion-from-scratch.netlify.app/).
 
 ## Available Scripts
 
